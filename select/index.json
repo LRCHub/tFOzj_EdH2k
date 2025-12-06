@@ -1,0 +1,128 @@
+{
+  "version": 1,
+  "base_track": "Henceforth",
+  "base_artist": "Orangestar",
+  "createdAt": "2025-12-06T01:19:21.559582Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Henceforth",
+      "artist": "Macbeth",
+      "has_synced": true,
+      "path": "select/01_Henceforth_Macbeth.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Henceforth (feat. IA)",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/02_Henceforth_(feat._IA)_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Henceforth",
+      "artist": "Orangestar feat. IA",
+      "has_synced": true,
+      "path": "select/03_Henceforth_Orangestar_feat._IA.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Henceforth",
+      "artist": "Macbeth",
+      "has_synced": false,
+      "path": "select/04_Henceforth_Macbeth.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Henceforth - Cover",
+      "artist": "みや。",
+      "has_synced": true,
+      "path": "select/05_Henceforth_-_Cover_みや。.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Orangestar - Henceforth (feat. IA) Official Video",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/06_Orangestar_-_Henceforth_(feat._IA)_Official_Video_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Henceforth",
+      "artist": "Akuya",
+      "has_synced": false,
+      "path": "select/07_Henceforth_Akuya.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Henceforth",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/08_Henceforth_Orangestar.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Henceforth",
+      "artist": "Macbeth",
+      "has_synced": true,
+      "path": "select/09_Henceforth_Macbeth.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Henceforth",
+      "artist": "Orangestar",
+      "has_synced": true,
+      "path": "select/10_Henceforth_Orangestar.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Henceforth (feat. IA)",
+      "artist": "Orangestar, IA",
+      "has_synced": true,
+      "path": "select/11_Henceforth_(feat._IA)_Orangestar,_IA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Henceforth (feat. 星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)",
+      "artist": "Leo/need",
+      "has_synced": true,
+      "path": "select/12_Henceforth_(feat._星乃一歌&天馬咲希&望月穂波&日野森志歩&初音ミク)_Leo_need.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Henceforth",
+      "artist": "Roy Ayers Ubiquity",
+      "has_synced": true,
+      "path": "select/13_Henceforth_Roy_Ayers_Ubiquity.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Henceforth",
+      "artist": "Ayers, Roy Ubiquity",
+      "has_synced": true,
+      "path": "select/14_Henceforth_Ayers,_Roy_Ubiquity.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Henceforth",
+      "artist": "Orangestar",
+      "has_synced": false,
+      "path": "select/pl_01_Henceforth_Orangestar.txt"
+    }
+  ]
+}
